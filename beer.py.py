@@ -7,7 +7,7 @@ url = "https://beer9.p.rapidapi.com/"
 querystring = {"brewery":"Berkshire brewing company"}
 
 headers = {
-	"x-rapidapi-key": "531193f132msh71720d21c9c014ap118541jsn0984870f4075",
+	"x-rapidapi-key": "",
 	"x-rapidapi-host": "beer9.p.rapidapi.com"
 }
 

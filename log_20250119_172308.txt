@@ -1,0 +1,6 @@
+2025-01-19 17:23:08,803 - INFO - Script started.
+2025-01-19 17:23:08,804 - INFO - Attempting to connect to the database for uploading data.
+2025-01-19 17:23:08,835 - INFO - Uploading data to table: berkshire-beers_table
+2025-01-19 17:23:09,133 - INFO - Data uploaded successfully to berkshire-beers_table.
+2025-01-19 17:23:09,133 - INFO - Data uploaded successfully.
+2025-01-19 17:23:09,135 - INFO - Script ended.
